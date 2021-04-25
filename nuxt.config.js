@@ -67,6 +67,6 @@ export default {
   build: {
   },
   generate: { 
-    dir: 'public' 
+    dir: 'dist' 
   } 
 }
