@@ -1,10 +1,24 @@
 [
   {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/sugiurafumiya/nuxt-app-firebase/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_13a4dff6"
+  },
+  {
     "name": "inspire",
     "path": "/inspire",
     "component": "/Users/sugiurafumiya/nuxt-app-firebase/pages/inspire.vue",
     "chunkName": "pages/inspire",
     "_name": "_69a7ff59"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "/Users/sugiurafumiya/nuxt-app-firebase/pages/blog/_slug/index.vue",
+    "chunkName": "pages/blog/_slug/index",
+    "_name": "_32108ab1"
   },
   {
     "name": "index",

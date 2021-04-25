@@ -77,13 +77,18 @@
 </template>
 
 <script>
+
+</script>
+
+<script lang="ts">
+import vue from 'vue'
 import Logo from '~/components/Logo.vue'
 import VuetifyLogo from '~/components/VuetifyLogo.vue'
 
-export default {
+export default vue.extend({
   components: {
     Logo,
     VuetifyLogo
-  }
-}
+  },
+})
 </script>
